@@ -1,5 +1,7 @@
 #include<stdio.h>
-   void main()
+// farah
+
+void main()
 {
   int n,i;
   int sum=0;
